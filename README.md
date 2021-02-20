@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 * Going back to basics of HTML, CSS, JS ( I been away for for almost 2 years of working with WP so refreshing is a must)
 * Picking up TailwindCSS
 * Simply put, brushing up on my frontend skills!
-<br>
-🌱 I’m currently learning: 
+
+🌱 I’m currently learning: <br>
 * All things JAMStack!!! - I have been MIA and I really want to dive in DEEP into this stack
 * Serverless Functions and Headless CMS (old habits die hard with WP but I will experiment with others, I promise 😊)
 * Laravel Ecosystem - Really want to step outside the box and experiment a tincy bit!
-<br>
+
 ⚡ Fun fact about me is that my name has always been mispronounced because it is !spelled correctly since birth, AIN'T NO BODY GOT TIME TO CHANGE IT, this is why I never get mad or frustrated when it is pronounced wrong 🤣
+
+
