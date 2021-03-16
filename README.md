@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ## This is my do over party in my career in tech and in Github as well. Life has really made me realize how each day I am alive, I need to celebrate. In the mist of everything I have one take away that I will like to share, <em>When you start to become unhappy in your moment, it is time for a change!</em> <br> <br>My change is here and now and since there is no turning back, I am going to share this with you:
 
 🔭 I’m currently working on: <br>
-* Going back to basics of HTML, CSS, JS ( I been away for for almost 2 years of working with WP so refreshing is a must)
-* Picking up TailwindCSS
-* Simply put, brushing up on my frontend skills!
-
-🌱 I’m currently learning: <br>
 * All things JAMStack!!! - I have been MIA and I really want to dive in DEEP into this stack
+* Picking up TailwindCSS
+* Maybe dab in a little bit of UI/UX design systems for developers
+
+🌱 What I want to learn in the future: <br>
 * Serverless Functions and Headless CMS (old habits die hard with WP but I will experiment with others, I promise 😊)
 * Laravel Ecosystem - Really want to step outside the box and experiment a tincy bit!
+* Picking up a little native iOS development
 
 ⚡ Fun fact about me is that my name has always been mispronounced because it is !spelled correctly since birth, AIN'T NO BODY GOT TIME TO CHANGE IT, this is why I never get mad or frustrated when it is pronounced wrong 🤣
 
